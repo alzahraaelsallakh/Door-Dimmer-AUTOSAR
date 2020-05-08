@@ -1,4 +1,5 @@
 # Door Dimmer - AUTOSAR Compliant
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
 
 The system checks wether any car door is opened to turn on the dimmer lamp, or to turn it off if they are all closed.  
 
@@ -18,3 +19,8 @@ AUTOSAR compliant using one ECU for basic implementation, following the next arc
 
 Note: Switches are connected with pull up resistors
 
+Here's a simple video showing the basic idea  
+
+ <p align="center">
+  <img  src="../media/door-dimmer-vid.gif?raw=true">
+</p>
